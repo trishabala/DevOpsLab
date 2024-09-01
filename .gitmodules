@@ -1,3 +1,6 @@
 [submodule "Exercise 1/Master"]
 	path = Exercise 1/Master
 	url = https://github.com/trishabala/Master.git
+[submodule "Exercise 4/MyJavaApp"]
+	path = Exercise 4/MyJavaApp
+	url = https://github.com/trishabala/MyJavaApp.git
