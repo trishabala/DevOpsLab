@@ -54,7 +54,7 @@
    git branch -M main
    git push -u origin main
    ```
-   ![1-4](../../Photos/Ex4/1-4.png?raw=true)
+   ![1-4](../Photos/Ex4/1-4.png?raw=true)
 
 ### 2. Creating a POM File and Experimenting with Inheritance and Aggregation
 
@@ -121,7 +121,7 @@
    ```bash
    mvn compile
    ```
-   ![3-1](../../Photos/Ex4/3-1.png?raw=true)
+   ![3-1](../Photos/Ex4/3-1.png?raw=true)
 
 2. **Run the Java Application:**
 
@@ -138,5 +138,5 @@
    ```bash
    mvn package
    ```
-   ![3-3](../../Photos/Ex4/3-3.png?raw=true)
+   ![3-3](../Photos/Ex4/3-3.png?raw=true)
 
