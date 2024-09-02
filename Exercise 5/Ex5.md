@@ -66,7 +66,7 @@
    cp path/to/commons-lang3-3.12.0.jar lib/
    ```
 
-   ![2-2](../Photos/Ex5/2-1.png?raw=true)
+   ![2-2](../Photos/Ex5/2-2.png?raw=true)
 
 3. Compile the project with the dependencies:
 
@@ -154,7 +154,7 @@
    </dependencies>
    ```
 
-   ![5-3](../Photos/Ex5/5-2.png?raw=true)
+   ![5-3](../Photos/Ex5/5-3.png?raw=true)
 
 ### 6. Executing the Clean Lifecycle
 
