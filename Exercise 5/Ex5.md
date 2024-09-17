@@ -1,6 +1,6 @@
 # DevOps Lab - Trisha Balakrishnan
 
-## Exercise 7
+## Exercise 5
 
 ### Creating and Managing a Java Project Manually and with Maven
 
