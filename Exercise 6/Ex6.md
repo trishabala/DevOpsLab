@@ -830,6 +830,7 @@ This configuration ensures that during the clean phase, the `custom-temp` direct
 #### How would you extend the plugin configuration in the child POM to add a custom execution goal for a plugin that is inherited from the parent POM? What changes would you make to the child POM to include the additional goal?
 
 To add a custom execution goal for an inherited plugin, you can extend the plugin configuration in the child POM. Here’s how you can define an additional execution goal:
+
 **Parent POM:**
 ```xml
 <build>
